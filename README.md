@@ -1,4 +1,4 @@
-A bash environment for using cisTEM 2D template matching (2DTM).
+## A bash environment for using cisTEM 2D template matching (2DTM).
 
 To use this environment,
 
