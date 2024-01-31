@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#
+# Source micrograph metadata into environment.
+# 
+# These parameters are passed to CTFFIND and 2DTM.
+
+pixelsize=1.076  # Angstroms
+voltage=300  # kV
+spherical_aberration=2.7  # mm
+amplitude_contrast=0.1
